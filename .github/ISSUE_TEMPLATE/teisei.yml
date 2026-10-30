@@ -1,6 +1,6 @@
 name: 本文の誤り
 description: 本文の誤り（OCR の誤認識・脱字・ルビの混入など）を知らせる
-title: "[修正案] 国歌八論 "
+title: "[修正案] 国歌八論（荷田全集本） "
 labels: ["修正案"]
 body:
   - type: markdown

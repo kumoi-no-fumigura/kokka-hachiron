@@ -1,6 +1,6 @@
 name: 訳の誤り
 description: 現代語訳の誤りや、よりよい訳を知らせる
-title: "[訳] 国歌八論 "
+title: "[訳] 国歌八論（荷田全集本） "
 labels: ["訳"]
 body:
   - type: input
